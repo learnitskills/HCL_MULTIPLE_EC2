@@ -47,13 +47,3 @@ variable "secondary_volume_size" {
 variable "secondary_volume_type" {
   default = "gp2"
 }
-
-
-
-
-
-
-
-
-
-
