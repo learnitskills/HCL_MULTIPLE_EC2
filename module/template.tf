@@ -9,5 +9,3 @@ module "instance" {
   secondary_volume_size = [1, 2, 3]
 
 }
-
-
