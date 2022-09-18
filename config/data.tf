@@ -39,5 +39,3 @@ data "aws_security_group" "sg" {
 data "aws_kms_key" "key_arn" {
   key_id = var.kms_key_arn
 }
-
-
